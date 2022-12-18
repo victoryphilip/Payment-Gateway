@@ -1,0 +1,62 @@
+body{
+    background-color:rgb(45, 168, 117);
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+    
+}
+
+form {
+    width: 90vw;
+    max-width: 20em;
+    color: white;
+  }
+  
+  button {
+    margin-top: 2rem;
+    margin-bottom: 15px;
+    border: none;
+    width: 75px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    transition: color 10s ease-in-out;
+    margin-left: 15px;
+    transition: margin-left 1s ease;
+  }
+
+  
+  input {
+    border: 20px solid none;
+    border-radius: 10px;
+    padding: 0.3em;
+    width: 100%;
+  }
+  
+  label {
+    display: block;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+  }
+  
+  .date-code {
+    display: flex;
+    margin: 0 -1em;
+  }
+  
+  .date-code div {
+    margin: 0 1em;
+  }
+
+  .Tittle{
+    text-align: center;
+    color: white;
+    text-shadow: 10px;
+  }
+  
+  footer{
+    margin-top:  20px;
+  }
+  
